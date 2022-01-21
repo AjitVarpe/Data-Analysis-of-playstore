@@ -23,11 +23,7 @@ app ratings <br>
 We have made a Conclusion
 below :
 <br>
-1. User mostly prefer free
-apps compare to paid
-apps. Playstore contain
-large numbers of free
-application.
+1. User mostly prefer free apps compare to paid apps. Playstore contain large numbers of free application.
 <br>
 2. Application that are for
 everyone have rating form
