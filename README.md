@@ -27,24 +27,24 @@ below :
 2. Application that are for
 everyone have rating form
 4 to 5.
-<br>
+
 3. Family, Games , Social,
 tools, etc. category having
 highest numbers of
 download.
-<br>
+
 4. Also, customer ratings
 plays a huge role while
 releasing the application.
-<br>
+
 5. Sentiment of application
 does not affect much to the
 final rating of the app due
 to proportional behaviour.
-<br>
+
 6. Popular categories having
 high positive sentiments.
-<br>
+
 7. Positive sentiments are
 highest compare to neutral
 and negative sentiments
